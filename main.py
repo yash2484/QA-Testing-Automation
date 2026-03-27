@@ -134,7 +134,7 @@ manager = GroupChatManager(
     llm_config=llm_config,
 )
 
-# SEED MESSAGE — This starts the entire pipeline
+# SEED MESSAGE 
 
 SEED_MESSAGE = """
 You are starting the QA pipeline for a User Registration API.
